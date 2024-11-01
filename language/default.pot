@@ -1,0 +1,127 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Courseware addon for Restrict Content Pro\n"
+"POT-Creation-Date: 2020-04-28 11:16-0700\n"
+"PO-Revision-Date: 2014-12-17 19:02-0700\n"
+"Last-Translator: \n"
+"Language-Team: Fly Plugins\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: includes/class-wpcw-rcp-members.php:86
+msgid "&amp; Automatic Course Access Settings"
+msgstr ""
+
+#: includes/class-wpcw-rcp-members.php:109
+msgid "That membership does not appear to exist."
+msgstr ""
+
+#: includes/class-wpcw-rcp-members.php:136
+#, php-format
+msgid "Editing permissions for <b>%s</b> membership with <b>%s</b>:"
+msgstr ""
+
+#: includes/class-wpcw-rcp-members.php:160
+msgid "Save Changes"
+msgstr ""
+
+#: includes/class-wpcw-rcp-members.php:163
+msgid "Courses user can access with this membership"
+msgstr ""
+
+#: includes/class-wpcw-rcp-members.php:169
+msgid "Do you want to retroactively enroll current members into these courses?"
+msgstr ""
+
+#: includes/class-wpcw-rcp-members.php:171
+msgid "Yes"
+msgstr ""
+
+#: includes/class-wpcw-rcp-members.php:172
+msgid "No"
+msgstr ""
+
+#: includes/class-wpcw-rcp-members.php:226
+msgid "Level and course permissions successfully updated."
+msgstr ""
+
+#: includes/class-wpcw-rcp-members.php:227
+#, php-format
+msgid ""
+"Want to return to the <a href=\"%s\">Course Access Settings summary</a>?"
+msgstr ""
+
+#: includes/class-wpcw-rcp-members.php:243
+msgid "&laquo; Return to Course Access Settings summary"
+msgstr ""
+
+#: includes/class-wpcw-rcp-members.php:270
+msgid "Membership ID"
+msgstr ""
+
+#: includes/class-wpcw-rcp-members.php:273
+msgid "Membership Name"
+msgstr ""
+
+#: includes/class-wpcw-rcp-members.php:276
+msgid "Users with this membership can access:"
+msgstr ""
+
+#: includes/class-wpcw-rcp-members.php:279
+msgid "Actions"
+msgstr ""
+
+#: includes/class-wpcw-rcp-members.php:317
+msgid "There are no courses yet."
+msgstr ""
+
+#: includes/class-wpcw-rcp-members.php:324
+msgid "Edit Course Access Settings"
+msgstr ""
+
+#: includes/class-wpcw-rcp-members.php:336
+#, php-format
+msgid "No memberships were found for %s."
+msgstr ""
+
+#: includes/class-wpcw-rcp-members.php:429
+msgid "addon"
+msgstr ""
+
+#: includes/class-wpcw-rcp-members.php:430
+#, php-format
+msgid "The %s plugin has not been detected. Is it installed and activated?"
+msgstr ""
+
+#: includes/class-wpcw-rcp-members.php:448
+msgid "WP Courseware"
+msgstr ""
+
+#: includes/class-wpcw-rcp-members.php:448
+msgid "has not been detected. Is it installed and activated?"
+msgstr ""
+
+#: includes/class-wpcw-rcp-members.php:466
+msgid "New users given access based on"
+msgstr ""
+
+#: includes/class-wpcw-rcp-members.php:469
+msgid "membership"
+msgstr ""
+
+#: includes/class-wpcw-rcp-membership.php:134
+#, php-format
+msgid "Want to return to the <a href=\"%s\">Course Access Settings</a>?"
+msgstr ""
+
+#: includes/class-wpcw-rcp-membership.php:137
+msgid "&laquo; Return to Course"
+msgstr ""
